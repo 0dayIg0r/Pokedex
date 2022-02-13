@@ -55,4 +55,4 @@ facilmente acessível por meio de uma API RESTful moderna.
    [Axios]: <https://github.com/axios/axios>
    [React Icons]: <react-icons.github.io/>
    [PokeApi]: <https://pokeapi.co/>
-
+   [Marcelo Maia]: <https://github.com/yMarceloMaia>
